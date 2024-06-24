@@ -53,8 +53,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="[Captura de tela 2024-06-24 181550](https://github.com/Brasetec/Projeto-do-Produto-2/assets/133825099/aa43e4e3-b18b-4e0e-b294-0e8ee84c9931)
-
+ <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO%20(1).jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
