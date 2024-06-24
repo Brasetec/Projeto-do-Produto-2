@@ -39,8 +39,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 11/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |01 |27/03/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |02| 15/04/2024| Não concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 06/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 03/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|03| 06/05/2024 |Concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 03/06/2024 |Concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|24/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
@@ -53,8 +53,8 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src=![Captura de tela 2024-06-24 181550](https://github.com/Brasetec/Projeto-do-Produto-2/assets/133825099/32c0ab4a-34a5-44b1-9bb2-77642e26288e)
-"%"/>
+ <img src="[Captura de tela 2024-06-24 181550](https://github.com/Brasetec/Projeto-do-Produto-2/assets/133825099/aa43e4e3-b18b-4e0e-b294-0e8ee84c9931)
+
 </p>
 
 # Objetivo do Projeto
