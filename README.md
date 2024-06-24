@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
-file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png
+<img src="file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png"width="100%"/>
 </p>
 
 # Objetivo do Projeto
