@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-4SEM-012024-GPI/blob/main/Sprint%201/imagem/APRENDIZAGEM%20POR%20PROJETO%20INTEGRADO%20(1).jpg" width="100%"/>
+file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png
 </p>
 
 # Objetivo do Projeto
