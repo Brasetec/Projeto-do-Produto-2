@@ -4,7 +4,7 @@ P.O: Marcos Vitor
 
 Scrum Team: Rodrigo, Leandro, Patricia
 
-Link Sprint 01: https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
+Link Sprint 01: 
 
 Link Sprint 03: https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
 
@@ -53,18 +53,17 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
-<img src="file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png"width="100%"/>
+
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
-
+O objetivo do projeto é unificar planilhas desordenadas em uma interface organizada, utilizando dashboards intuitivos e macros no Excel para otimizar a visualização e análise de dados.
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
 >Colocar o vídeo da apresentação
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+[![SPRINT 1]https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
 
 
 ## Sprint 2
