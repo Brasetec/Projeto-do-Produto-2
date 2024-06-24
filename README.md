@@ -53,18 +53,14 @@ O objetivo do projeto é unificar planilhas desordenadas em uma interface organi
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-SPRINT 1https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
+ https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
 
 ## Sprint 3
-SPRINT 3 https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
+https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
 
 ## Sprint 4
-SPRINT 4 https://drive.google.com/file/d/15hlykP-S88wM1DxeSlwu8iCBMDwXFzZY/view
+https://drive.google.com/file/d/15hlykP-S88wM1DxeSlwu8iCBMDwXFzZY/view
 
-
-## Tecnologias Utilizadas
-### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
 
 ### Tecnológias Específicas/Apoio
 Exel- Makros; Dash Boards 
@@ -89,28 +85,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
 </p>
 
-## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
-
-## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
-## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+
 
 ## Hard Skill (saber tecnológico)
 <details>
