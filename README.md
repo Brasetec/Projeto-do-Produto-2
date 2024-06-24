@@ -47,14 +47,14 @@ Sprint | Previsão | Status| Histórico|
 
 # Micro Certificações
 <p align="center">
- ![Captura de tela 2024-06-24 181550](https://github.com/Brasetec/Projeto-do-Produto-2/assets/133825099/90269cd2-aa82-4bfc-8bb4-735134670066)
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+</p>
 
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
-
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
+ <img src=![Captura de tela 2024-06-24 181550](https://github.com/Brasetec/Projeto-do-Produto-2/assets/133825099/32c0ab4a-34a5-44b1-9bb2-77642e26288e)
+"%"/>
 </p>
 
 # Objetivo do Projeto
