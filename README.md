@@ -1,8 +1,7 @@
-Scrum Master: Luis Porto
+Scrum Master: 
+P.O: 
 
-P.O: Marcos Vitor
-
-Scrum Team: Rodrigo, Leandro, Patricia
+Scrum Team: 
 
 Link Sprint 04: 
 # Aprendizado por Projeto Integrado (API) - Template
@@ -54,28 +53,13 @@ O objetivo do projeto é unificar planilhas desordenadas em uma interface organi
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-
 SPRINT 1https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
 
-
 ## Sprint 3
->Colocar o vídeo da apresentação
-
 SPRINT 3 https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
 
-
 ## Sprint 4
->Colocar o vídeo da apresentação
-
 SPRINT 4 https://drive.google.com/file/d/15hlykP-S88wM1DxeSlwu8iCBMDwXFzZY/view
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Tecnologias Utilizadas
@@ -83,10 +67,12 @@ Vídeo com a apresentação final da API do "semestre/ano"
 > Descreva aqui a parte do MVP referente a cada Sprint
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+Exel- Makros; Dash Boards 
+Power Point
+GitHub
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+O mindset digital da nossa equipe foi essencial para conduzir a empresa em sua jornada de transformação. Com foco na inovação, no uso estratégico de tecnologias avançadas e na promoção de uma cultura de inovação.
 
 # Cronograma das Sprints
 
@@ -160,6 +146,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner|Marcos Vitor | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master|Luis Porto
+ | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|Rodrigo, Leandro, Patricia | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
