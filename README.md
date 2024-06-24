@@ -1,9 +1,3 @@
-Scrum Master: 
-P.O: 
-
-Scrum Team: 
-
-Link Sprint 04: 
 # Aprendizado por Projeto Integrado (API) - Template
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -69,21 +63,6 @@ GitHub
   
 ### Mindset Digital
 O mindset digital da nossa equipe foi essencial para conduzir a empresa em sua jornada de transformação. Com foco na inovação, no uso estratégico de tecnologias avançadas e na promoção de uma cultura de inovação.
-
-# Cronograma das Sprints
-
-## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
 
 
 # Competências desenvolvidas
