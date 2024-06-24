@@ -1,4 +1,4 @@
-file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png
+
 # Aprendizado por Projeto Integrado (API) - Template
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -39,9 +39,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-<p align="center">
 
-</p>
 
 # Objetivo do Projeto
 O objetivo do projeto é unificar planilhas desordenadas em uma interface organizada, utilizando dashboards intuitivos e macros no Excel para otimizar a visualização e análise de dados.
