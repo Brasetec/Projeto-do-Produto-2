@@ -39,7 +39,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-
+<img align="right" src="https://github.com/Brasetec/Projeto-do-Produto-2/blob/main/imagem/logobrasetec.png" alt="Foto pessoal" width="1000"/>
 
 # Objetivo do Projeto
 O objetivo do projeto é unificar planilhas desordenadas em uma interface organizada, utilizando dashboards intuitivos e macros no Excel para otimizar a visualização e análise de dados.
