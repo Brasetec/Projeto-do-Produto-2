@@ -1,3 +1,4 @@
+file:///C:/Users/marco/OneDrive/Desktop/Captura%20de%20tela%202024-06-24%20181550.png
 # Aprendizado por Projeto Integrado (API) - Template
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
