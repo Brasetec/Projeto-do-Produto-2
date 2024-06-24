@@ -4,12 +4,7 @@ P.O: Marcos Vitor
 
 Scrum Team: Rodrigo, Leandro, Patricia
 
-Link Sprint 01: 
-
-Link Sprint 03: https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
-
-Link Sprint 04: https://drive.google.com/file/d/15hlykP-S88wM1DxeSlwu8iCBMDwXFzZY/view
-
+Link Sprint 04: 
 # Aprendizado por Projeto Integrado (API) - Template
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
@@ -63,24 +58,19 @@ O objetivo do projeto é unificar planilhas desordenadas em uma interface organi
 ## Sprint 1
 >Colocar o vídeo da apresentação
 
-[![SPRINT 1]https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
+SPRINT 1https://drive.google.com/file/d/1i0ze6ACnkNTYNby4bZHBsDZIJrjyLmYY/view
 
-
-## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
 
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+SPRINT 3 https://drive.google.com/file/d/1-D9YDDwY5YIos7so6ZFTzlWtqtu8rbMM/view
 
 
 ## Sprint 4
 >Colocar o vídeo da apresentação
 
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+SPRINT 4 https://drive.google.com/file/d/15hlykP-S88wM1DxeSlwu8iCBMDwXFzZY/view
 
 
 ## Apresentação final (se necessario)
